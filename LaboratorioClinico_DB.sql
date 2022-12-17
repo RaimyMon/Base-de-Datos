@@ -1,4 +1,4 @@
---Raimi Antonio Montero
+--Raymi Antonio Montero
 
 CREATE DATABASE Laboratorio_Db
 GO
