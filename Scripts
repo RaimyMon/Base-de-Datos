@@ -1,0 +1,18 @@
+--SELECT Nombre, Apellido, Especialidad, Area FROM 
+--	Medico WHERE Medico_ID = 9
+
+--SELECT * FROM 
+	--Prueba WHERE Medico_ID = 9
+
+	-- PRUEBAS REALIZADAS POR EL Dr. Fernandez
+
+
+--SELECT CONCAT(M.Nombre, '', M.Apellido) as 'Doctor', M.Especialidad, m.Area, P.Nombre, P.Area FROM Prueba P 
+	--INNER JOIN Medico M ON P.Medico_ID = M.Medico_ID
+	--WHERE P.Medico_ID = 9
+
+
+	-- PRUEBAS REALIZADAS POR EL Dr. Fernandez
+--SELECT CONCAT(M.Nombre, '', M.Apellido) as 'Doctor', M.Especialidad, m.Area, P.Nombre, P.Area FROM Prueba P 
+	--INNER JOIN Medico M ON P.Medico_ID = M.Medico_ID
+	--WHERE P.Medico_ID = 9
